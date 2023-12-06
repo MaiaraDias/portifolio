@@ -1,6 +1,6 @@
 import React from "react";
-//import Pizza from "../assets/pizza.png"
-//import {} from "../Styles/projetosStyle"
+import Pizza from "../assets/pizza.png"
+import {Img} from "../Styles/projetosStyle"
 function Projetos(){
     return(
         <section>

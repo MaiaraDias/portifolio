@@ -1,12 +1,12 @@
-import React, {useState} from "react";
+//import React, {useState} from "react";
 import {Link} from "react-router-dom"
-import {StyleHeader, Navegacao} from "../styles/HeaderStyle"
+import {StyleHeader, Navegacao} from "../Styles/headerStyle"
 
 //import Menu from "../assets/menu.svg"
 //import X from "../assets/x.svg"
 
 function Header(){
-    const [menuAberto, setMenuAberto] = useState(false)
+    //const [menuAberto, setMenuAberto] = useState(false)
 
     return(
         <StyleHeader>
