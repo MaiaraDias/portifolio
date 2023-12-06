@@ -7,8 +7,10 @@ function Projetos(){
             <h1>Projetos </h1>
             <section>
                 <figure>
-                    <a href="LInK VERCEL- do projeto- imagem tem que está em assets " target="_blank"></a>
+                    <a href="https://la-pizza-steel.vercel.app/" target="_blank">
                     <Img src={Pizza} alt="Site La pizza" />
+                    </a>
+                   
                 </figure>
                 <div>
                     <h2>La Pizza</h2>
